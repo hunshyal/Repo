@@ -16,5 +16,6 @@ for i in input:
 
 print(new_list)
 print("Adding this to git")
+print("Adding this to git")
 
 
