@@ -15,7 +15,8 @@ for i in input:
     new_list.append(i)
 
 print(new_list)
-print("Adding this to git")
-print("Adding this to git")
+print("Adding this to git1")
+print("Adding this to git2")
+print("Adding this to git3")
 
 
